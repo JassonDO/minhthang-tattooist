@@ -1,0 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+
+.span-name{
+    font-family: 'Varela Round';
+}
+.section-bg{
+    background-image: url(./assets/2.jpg);
+}
